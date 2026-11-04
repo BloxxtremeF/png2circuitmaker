@@ -1,8 +1,8 @@
 CXX = g++
 CXXFLAGS = -O2 -Wall
 LDFLAGS = -lpng
-TARGET = png2curcuitmaker
-SRC = png2curcuitmaker.cpp
+TARGET = png2circuitmaker
+SRC = png2circuitmaker.cpp
 
 all: $(TARGET)
 
